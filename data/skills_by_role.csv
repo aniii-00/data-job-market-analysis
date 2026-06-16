@@ -1,0 +1,52 @@
+role,skill,percentage
+Data Scientist,sql,31.758034026465026
+Data Scientist,python,53.4593572778828
+Data Scientist,microsoft excel,1.0964083175803403
+Data Scientist,tableau,8.128544423440454
+Data Scientist,power bi,0.3780718336483932
+Data Scientist,aws,14.782608695652174
+Data Scientist,azure,2.570888468809074
+Data Scientist,spark,19.735349716446123
+Data Scientist,hadoop,17.84499054820416
+Data Scientist,machine learning,49.262759924385634
+Data Scientist,deep learning,12.967863894139885
+Data Scientist,statistics,44.46124763705104
+Data Scientist,pytorch,2.7977315689981097
+Data Scientist,snowflake,0.1890359168241966
+Data Scientist,sas,13.875236294896029
+Data Scientist,tensorflow,8.544423440453686
+Data Scientist,databricks,0.1890359168241966
+Data Analyst,sql,34.81828839390387
+Data Analyst,python,26.846424384525204
+Data Analyst,microsoft excel,6.799531066822978
+Data Analyst,tableau,15.123094958968347
+Data Analyst,power bi,1.6412661195779603
+Data Analyst,aws,9.847596717467761
+Data Analyst,azure,0.8206330597889802
+Data Analyst,spark,3.6342321219226257
+Data Analyst,hadoop,3.6342321219226257
+Data Analyst,machine learning,9.730363423212191
+Data Analyst,deep learning,0.4689331770222743
+Data Analyst,statistics,34.81828839390387
+Data Analyst,pytorch,0.0
+Data Analyst,snowflake,0.3516998827667058
+Data Analyst,sas,20.164126611957798
+Data Analyst,tensorflow,0.0
+Data Analyst,databricks,0.3516998827667058
+Data Engineer,sql,33.03204601479047
+Data Engineer,python,56.36811832374692
+Data Engineer,microsoft excel,0.24650780608052586
+Data Engineer,tableau,3.533278553820871
+Data Engineer,power bi,0.4930156121610517
+Data Engineer,aws,27.280197206244868
+Data Engineer,azure,9.120788824979458
+Data Engineer,spark,25.7189811010682
+Data Engineer,hadoop,23.171733771569432
+Data Engineer,machine learning,44.207066557107645
+Data Engineer,deep learning,9.860312243221035
+Data Engineer,statistics,12.489728841413312
+Data Engineer,pytorch,2.711585866885785
+Data Engineer,snowflake,0.7395234182415776
+Data Engineer,sas,4.930156121610517
+Data Engineer,tensorflow,9.531635168447
+Data Engineer,databricks,0.4108463434675432
